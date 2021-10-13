@@ -8,5 +8,5 @@ Takže, budeš potřebovat v pythonu extension: **discord.py | discord** aby ti 
 Potom ho jenom zapneš a automaticky by ti měl jít.
 **ALE POKUD CHCEŠ! MŮŽEŠ SI UDĚLAT HOSTING NA 24/7 A MŮŽEŠ SI NAJÍT NÁVOD NA YT! :)**
 
-**Děkuji za výběr mého bota! Tvůrce: Manny.#3304**
+**Děkuji za výběr mého bota! Tvůrce: Manny.#7388**
 Pro další projeky klikni tady --> **[GitHub](https://github.com/MannyDEVELOP)**
